@@ -1,7 +1,7 @@
 ﻿/*
  * 公司：XXXX
  * 作者：Rston
- * 项目：lseek函数及O_APPEND原理
+ * 项目：lseek函数及共享文件
  * 功能：1个进程重复打开同一个文件写入
  */
 #include <stdio.h>

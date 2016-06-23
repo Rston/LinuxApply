@@ -1,7 +1,7 @@
 ﻿/*
  * 公司：XXXX
  * 作者：Rston
- * 项目：lseek函数及O_APPEND原理
+ * 项目：lseek函数及共享文件
  * 功能：使用lseek构建1个空洞文件
  */
 #include <stdio.h>
