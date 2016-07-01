@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：dup和dup2和fcntrl及标准IO
- * 功能：使用fcntl模拟dup2
+ * 功能：使用fcntl模拟dup2。
  */
 #include <stdio.h>
 #include <sys/types.h>

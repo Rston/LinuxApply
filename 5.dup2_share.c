@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：dup和dup2和fcntrl及标准IO
- * 功能：使用dup2实现文件共享
+ * 功能：使用dup2实现文件共享。
  */
 #include <stdio.h>
 #include <sys/types.h>

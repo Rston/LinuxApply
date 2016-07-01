@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：dup和dup2和fcntrl及标准IO
- * 功能：实现1个简单的文件IO读写操作
+ * 功能：实现1个简单的文件IO读写操作。
  */
 #include <stdio.h>
 #include <stdlib.h>

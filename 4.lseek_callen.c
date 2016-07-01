@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：lseek函数及共享文件
- * 功能：使用lseek函数测试某个文件的大小
+ * 功能：使用lseek函数测试某个文件的大小。
  */
 #include <stdio.h>
 #include <sys/types.h>

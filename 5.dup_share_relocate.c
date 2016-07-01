@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：dup和dup2和fcntrl及标准IO
- * 功能：使用dup实现文件共享和文件重定位
+ * 功能：使用dup实现文件共享和文件重定位。
  */
 #include <stdio.h>
 #include <sys/types.h>

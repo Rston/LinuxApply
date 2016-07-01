@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：lseek函数及共享文件
- * 功能：演示lseek函数的基本使用
+ * 功能：演示lseek函数的基本使用。
  */
 #include <stdio.h>
 #include <sys/types.h>
