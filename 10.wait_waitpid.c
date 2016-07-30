@@ -1,7 +1,7 @@
 /*
  * 公司：XXXX
  * 作者：Rston
- * 项目：待定
+ * 项目：wait族函数和exec族函数
  * 功能：演示父进程调用wait或waitpid用于回收子进程。	
  */
 
