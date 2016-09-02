@@ -75,8 +75,3 @@ void CreatDaemon(void)
 		exit(-1);
 	}
 }
-
-
-
-
-
