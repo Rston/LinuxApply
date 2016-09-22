@@ -1,6 +1,8 @@
 ﻿/*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：文件读写细节及文件管理
  * 功能：演示perror函数的使用。
  */

@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：open函数的flag详解
  * 功能：文件读写权限、更改文件内容、退出进程或程序、打开不存在的文件。
  */

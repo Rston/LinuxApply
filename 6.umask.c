@@ -1,6 +1,8 @@
 ﻿/*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：文件类型和文件权限管理
  * 功能：使用umask函数设置新建文件的默认权限。
  * Linux下设置新建文件时的默认权限掩码由umask函数设置 

@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：文件类型和文件权限管理
  * 功能：读取目录文件并打印输出并判断文件类型和统计目录下的文件项数目。	
  */

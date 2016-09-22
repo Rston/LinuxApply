@@ -1,6 +1,8 @@
 ﻿/*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：lseek函数及共享文件
  * 功能：1个进程重复打开同一个文件写入。
  */

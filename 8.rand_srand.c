@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：随机数和proc和sys文件系统
  * 功能：简单延时产生随机数的方法。	
  */

@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：dup和dup2和fcntrl及标准IO
  * 功能：使用dup实现文件共享和文件重定位。
  */

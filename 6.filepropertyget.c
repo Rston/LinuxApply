@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：文件类型和文件权限管理
  * 功能：通过stat简单读取某个文件属性信息并打印输出；
  *		 通过stat判断某个文件类型；独立判断某个文件的权限。

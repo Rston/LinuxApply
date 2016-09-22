@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：文件类型和文件权限管理
  * 功能：使用access函数判断当前用户是否对该文件有相应的操作权限。
  */
